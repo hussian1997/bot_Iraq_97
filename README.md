@@ -40,8 +40,8 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-# Support and development [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX) 🐾
+# Support and development [VIP_TEAM1](https://telegram.me/VIP_TEAM1)  🐾
 
 For managing on Telegram.
-ADD [@iMardona](https://telegram.me/iMardona) ❤️
-Subscribe to Source channel [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX) 
+ADD [@I_D_B](https://telegram.me/I_D_B) ❤️
+Subscribe to Source channel [VIP_TEAM�](https://telegram.me/VIP_TEAM1) 
