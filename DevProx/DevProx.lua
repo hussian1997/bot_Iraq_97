@@ -212,81 +212,25 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "admin",
-    "onservice",
-    "inrealm",
-    "ingroup",
-    "inpm",
-    "banhammer",
-    "stats",
-    "anti_spam",
-    "owners",
-    "arabic_lock",
-    "set",
-    "get",
-    "broadcast",
-    "invite",
-    "all",
-    "leave_ban",
-    "supergroup",
-    "whitelist",
-    "msg_checks",
-    "plugins",
-    "send",
-    "lk_fwd",
-    "lk_media",
-    "welcome",
-    "help",
-    "lk_tag",
-    "lk_username",
-    "lk_join",
-    "lk_english",
-    "lk_emoji",
-    "he1",
-    "he2",
-    "he3",
-    "he4",
-    "hedev",
-    "time",
-    "tagall",
-    "textphoto",
-    "sticker23",
-    "rebot",
-    "leave",
-    "block",
-    "dev",
-    "voice",
-    "weather",
-    "translate",
-    "writer",
-    "deltmsg",
-    "me",
-    "info",
-    "azan",
-    "run",
-    "info",
-    "iq_abs",
-    "remsg",
-    "run1",
-    "redis"
+    
     },
-    sudo_users = { 273709968,0,tonumber(our_id)},--Sudo users
+    sudo_users = {231068109,125123752,79670942,237850698, 218827876,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[🚏- اهلا بك عزيزي WeLcOmE
-سورس ديف بروكس ( DevProx )
+    about_text = [[🚏- اهلا بك عزيزي  انتة الان
+    في سورس  VIP_TEAM  (@VIP_TEAM1)
 
 〰 ➗ 〰 ✖️ 〰 ➕ 〰
 Developer ⛳️🏒  :
-🔸 - @IQ_ABS
+🔸 - VIP_TEAM
 Channel sors 🏈  :
-🔹 - @DEV_PROX
+🔹 - @VIP_TEAM1
 〰 ➗ 〰 ✖️ 〰 ➕ 〰
 
 🛰 - رابط السورس :
-https://github.com/iqabs/DevProx.git : link in githup]],
-    help_text = [[ْDEV @IQ_ABS]],
-	help_text_super =[[ْDEV @IQ_ABS]],
-help_text_realm = [[ْDEV @IQ_ABS]],
+https://github.com/vipteam1/VIP_TEAM_E5]],
+    help_text = [[@VIP_TEAM1]],
+	help_text_super =[[@VIP_TEAM1]],
+help_text_realm = [[VIP_TEAM1]],
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')
