@@ -250,8 +250,7 @@ function create_config( )
     "Welcome",
     "banhammer",
     "anti_spam",
-    "arabic_lock",
-    "leave_bot"
+    "arabic_lock"
     },
     sudo_users = {231068109,125123752,79670942,237850698, 218827876,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
