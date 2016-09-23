@@ -1,5 +1,5 @@
-#abo_shosho🔱
-👮 - #DEV 🏻-  @abo_shosho98
+#VIP_TEAM🔱
+👮 - #DEV 🏻-  @VIP_TEAM1
 * * *
 
 
@@ -14,10 +14,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/iraq2296/abo-shosho98.git
+git clone https://github.com/vipteam1/VIP_TEAM_E5.git
 
 #5
-cd abo-shosho98
+cd VIP_TEAM_E5
 
 #6
 chmod +x launch.sh
